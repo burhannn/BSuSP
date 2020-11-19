@@ -1,0 +1,18 @@
+# BSuSP
+Betriebssysteme und Systemprogrammierung
+
+- Kapitel 1: Einfuehrung
+- Kapitel 2: C-Basics
+- Kapitel 3: C-Advanced
+- Kapitel 4: Programm zu Prozess
+- Kapitel 5: UNIX
+- Kapitel 6: Scheduling
+- Kapitel 7: Synchronisierung
+- Kapitel 8: Speicherverwaltung
+- Kapitel 9: Virtueller Speicher
+- Kapitel 10: Sekundärspeicher
+- Kapitel 11: Dateisysteme
+- Kapitel 12: Ein und Ausgabe I/O
+- Kapitel 13: Interprozesskommunikation (IPC)
+- Kapitel 14: Sicherheit
+- Kapitel 15: Architekturen

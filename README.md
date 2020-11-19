@@ -1,2 +1,0 @@
-# BSuSP
-Betriebssysteme und Systemprogrammierung
